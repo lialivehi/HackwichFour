@@ -16,8 +16,8 @@ class thirdViewController: UIViewController {
 
         // Do any additional setup after loading the view.
         
-        self.thirdTabLabel.text = "My Favorite Songs"
-        
+        self.thirdTabLabel.text = "My Favorite Artists"
+        self.view.backgroundColor = UIColor.purple
     }
     
 

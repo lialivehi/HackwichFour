@@ -17,6 +17,7 @@ class secondViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         self.secondTabLabel.text = "My Classes"
+        self.view.backgroundColor = UIColor.purple
     }
     
 
